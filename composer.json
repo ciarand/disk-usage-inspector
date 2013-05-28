@@ -1,0 +1,10 @@
+{
+    "require": {
+        "symfony/console": "2.4.*@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ciarand\\DiskUtility": "src/"
+        }
+    }
+}
