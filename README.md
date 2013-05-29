@@ -25,3 +25,15 @@ composer install
 # If you have composer installed locally
 php composer.phar install
 ```
+
+Output
+------
+```
++-----------+-----------+---------+
+| Disk Size |           |         |
++-----------+-----------+---------+
+| Free      | 16.09 GB  | 6.91%   |
+| Used      | 216.87 GB | 93.09%  |
+| Total     | 232.96 GB | 100.00% |
++-----------+-----------+---------+
+```
