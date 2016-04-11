@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 Disk Usage Inspector
 ====================
 A very simple disk usage inspector CLI written in PHP with help from the Symfony Console.
